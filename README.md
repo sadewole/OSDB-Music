@@ -11,4 +11,4 @@
 
 ---
 
-`Please don't forget a rate this repo`
+`Please don't forget to rate this repo`
