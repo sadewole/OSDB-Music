@@ -8,8 +8,11 @@ const Navbar = () => {
       </a>
       <ul className='navbar-nav ml-auto'>
         <li className='nav-item active'>
-          <a href='https://github.com/sadewole/OSDB-Music' className='btn'>
-            <i class='fab fa-github-square'></i>
+          <a
+            href='https://github.com/sadewole/OSDB-Music'
+            className='text-white'
+          >
+            <i class='fab fa-github-square fa-2x'></i>
           </a>
         </li>
       </ul>
